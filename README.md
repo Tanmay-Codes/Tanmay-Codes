@@ -1,3 +1,4 @@
+![logo](https://github.com/Tanmay-Codes/Tanmay-Codes/blob/main/Game%20On.gif)
 <h1 align="center">Hi 👋, I'm Tanmay Agrawal</h1>
 <h3 align="center">A passionate WebApps developer from India</h3>
 
